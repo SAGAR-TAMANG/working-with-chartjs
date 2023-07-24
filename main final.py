@@ -37,5 +37,6 @@ fig = px.choropleth_mapbox(
     zoom=3.5,
     opacity=0.5,
 )
+fig.write_html('india.main.html')
 fig.show()
 
