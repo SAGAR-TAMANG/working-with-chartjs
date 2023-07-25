@@ -10,7 +10,7 @@ from rapidfuzz import fuzz, process
 
 
 naukri = pd.read_excel(r"C:\Users\TAMANG\Documents\GitHub\working-with-chartjs\city to state\NaukriJobListing_2023-07-24.xlsx")
-# india_states = json.load(open(r"C:\Users\TAMANG\Documents\GitHub\working-with-chartjs\city to state\states_india.geojson", "r"))
+india_states = json.load(open(r"C:\Users\TAMANG\Documents\GitHub\working-with-chartjs\city to state\states_india.geojson", "r"))
 
 # print(india_states['features'][0]['properties'])
 counter = 0
@@ -35,7 +35,7 @@ dt = naukri
 dt['City'] = naukri['City'].apply(cleaning)
 print("THIS IS NAUKRI AFTER THE CLEANING:\n ", dt['City'])
 
-cities_compare = pd.read_csv(r"C:\Users\TAMANG\Documents\GitHub\working-with-chartjs\city to state\Indian Cities Database Old.csv")
+cities_compare = pd.read_csv(r"C:\Users\TAMANG\Documents\GitHub\working-with-chartjs\city to state\Indian Cities Database.csv")
 cities_compare['City'] = cities_compare['City'].apply(cleaning)
 print('THIS IS CITY/STATE Compare after cleaning: \n', cities_compare)
 
@@ -55,10 +55,13 @@ for index, row in dt.iterrows():
         print("EXCEPTION OCCURED IN SPLIT", counter)
         pass
     try:
-        for i in city:  
-            matching_row = cities_compare[cities_compare['City'].str.contains(i, case=False)]
-            print(matching_row)
-            df_merged = pd.merge(naukri, cities_compare, on='City', how='left')
+        match, score = process.extractOne(city, cities_compare['City'].tolist(), scorer=fuzz.partial_ratio)
+        print("Closest Match:", match, "with Score:", score)
+        
+        # Get the corresponding state from cities_compare
+        state = cities_compare[cities_compare['City'] == match]['State'].iloc[0]
+        print("State:", state)
+        df_merged = pd.merge(naukri, cities_compare, on='City', how='left')
     except Exception as e:
         counter2 = counter2 + 1
         print("EXCEPTION OCCCURED IN CITY", counter)
