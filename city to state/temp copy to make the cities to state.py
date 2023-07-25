@@ -17,10 +17,10 @@ def cleaning(text):
     try:
         # converting to lowercase, removing URL links, special characters, punctuations...
         text = text.lower()
-        text = re.sub('https?://\S+|www\.\S+', '', text)
-        text = re.sub('<.*?>+', '', text)
-        text = re.sub('[%s]' % re.escape(string.punctuation), '', text)
-        text = re.sub('\n', '', text)
+        text = re.sub('https?://\S+|www\.\S+', ' ', text)
+        text = re.sub('<.*?>+', ' ', text)
+        text = re.sub('[%s]' % re.escape(string.punctuation), ' ', text)
+        text = re.sub('\n', ' ', text)
         text = re.sub('[’“”…]', '', text)
         return text
     except Exception as e:
@@ -31,17 +31,35 @@ def cleaning(text):
 dt = naukri
 # print(dt)
 dt['City'] = naukri['City'].apply(cleaning)
-print("THIS IS AFTER THE CLEANING: ", dt['City'])
+print("THIS IS NAUKRI AFTER THE CLEANING:\n ", dt['City'])
 
 cities_compare = pd.read_csv(r"C:\Users\TAMANG\Documents\GitHub\working-with-chartjs\city to state\Indian Cities Database.csv")
 cities_compare['City'] = cities_compare['City'].apply(cleaning)
-print(cities_compare)
+print('THIS IS CITY/STATE Compare after cleaning: \n', cities_compare)
 
 counter = 0
+counter2 = 0
+counter3 = 0
 
-num_lines = dt.shape[0]
+print("**********************************************")
+df_merged = pd.DataFrame(columns=['City', 'State'])
 
-print('Number of lines in DataFrame :', num_lines)
-
-for index, row in df.iterrows:
-    print(row)
+for index, row in dt.iterrows():
+    try:
+        city = row['City'].split()
+        print(city)
+    except Exception as e:
+        counter = counter + 1
+        print("EXCEPTION OCCURED IN SPLIT", counter)
+        pass
+    try:
+        for i in city:  
+            matching_row = cities_compare[cities_compare['City'].str.contains(i, case=False)]
+            print(matching_row)
+            df_merged = pd.concat([dt, matching_row])
+    except Exception as e:
+        counter2 = counter2 + 1
+        print("EXCEPTION OCCCURED IN CITY", counter)
+        pass
+df_merged.to_excel('temp.xlsx')
+# print('Number of Successful cities to:', counter3)
