@@ -33,19 +33,15 @@ dt = naukri
 dt['City'] = naukri['City'].apply(cleaning)
 print("THIS IS AFTER THE CLEANING: ", dt['City'])
 
-# state_id_map = {}
-# for feature in india_states["features"]:
-#     # print('FEATURE  :', feature)
-#     feature["id"] = feature["properties"]["state_code"]
-#     # print("FEATURE's ID :", feature['id'])
-#     state_id_map[feature["properties"]["st_nm"]] = feature["id"]
+cities_compare = pd.read_csv(r"C:\Users\TAMANG\Documents\GitHub\working-with-chartjs\city to state\Indian Cities Database.csv")
+cities_compare['City'] = cities_compare['City'].apply(cleaning)
+print(cities_compare)
 
+counter = 0
 
-# df = pd.read_csv("StatewiseTestingDetails.csv")
-# # df["Density"] = df["Density[a]"].apply(lambda x: int(x.split("/")[0].replace(",", "")))
-# df["TotalSamples"]
-# df["id"] = df["State"].apply(lambda x: state_id_map[x])
+num_lines = dt.shape[0]
 
+print('Number of lines in DataFrame :', num_lines)
 
-# print(df.head())    
-
+for index, row in df.iterrows:
+    print(row)
