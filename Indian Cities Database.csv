@@ -1,214 +1,494 @@
-City,State
-Abohar,Punjab
-Adilabad,Telangana
-Agartala,Tripura
-Agra,Uttar Pradesh
-Ahmadnagar,Maharashtra
-Ahmedabad,Gujarat
-Aizawl  ,Mizoram
-Ajmer,Rajasthan
-Akola,Maharashtra
-Alappuzha,Kerala
-Aligarh,Uttar Pradesh
-Alipurduar,West Bengal
-Allahabad,Uttar Pradesh
-Alwar,Rajasthan
-Ambala,Haryana
-Amaravati,Maharashtra
-Amritsar,Punjab
-Asansol,West Bengal
-Aurangabad,Maharashtra
-Aurangabad,Bihar
-Bakshpur,Uttar Pradesh
-Bamanpuri,Uttar Pradesh
-Baramula,Jammu & Kashmir
-Barddhaman,West Bengal
-Bareilly,Uttar Pradesh
-Belgaum,Karnataka
-Bellary,Karnataka
-Bengaluru,Karnataka
-Bhagalpur,Bihar
-Bharatpur,Rajasthan
-Bharauri,Uttar Pradesh
-Bhatpara,West Bengal
-Bhavnagar,Gujarat
-Bhilai,Chhattisgarh
-Bhilwara,Rajasthan
-Bhiwandi,Maharashtra
-Bhiwani,Haryana
-Bhopal ,Madhya Pradesh
-Bhubaneshwar,Odisha
-Bhuj,Gujarat
-Bhusaval,Maharashtra
-Bidar,Karnataka
-Bijapur,Karnataka
-Bikaner,Rajasthan
-Bilaspur,Chhattisgarh
-Brahmapur,Odisha
-Budaun,Uttar Pradesh
-Bulandshahr,Uttar Pradesh
-Calicut,Kerala
-Chanda,Maharashtra
-Chandigarh ,Chandigarh
-Chennai,Tamil Nadu 
-Chikka Mandya,Karnataka
-Chirala,Andhra Pradesh
-Coimbatore,Tamil Nadu 
-Cuddalore,Tamil Nadu 
-Cuttack,Odisha
-Daman,Daman & Diu
-Davangere,Karnataka
-DehraDun,Uttarakhand
-Delhi,NCT of Delhi
-Dhanbad,Jharkhand
-Dibrugarh,Assam
-Dindigul,Tamil Nadu 
-Dispur,Assam
-Diu,Daman & Diu
-Faridabad,Haryana
-Firozabad,Uttar Pradesh
-Fyzabad,Uttar Pradesh
-Gangtok,Sikkim
-Gaya,Bihar
-Ghandinagar,Gujarat
-Ghaziabad,Uttar Pradesh
-Gopalpur,Uttar Pradesh
-Gulbarga,Karnataka
-Guntur,Andhra Pradesh
-Gurugram,Haryana
-Guwahati,Assam
-Gwalior,Madhya Pradesh
-Haldia,West Bengal
-Haora,West Bengal
-Hapur,Uttar Pradesh
-Haripur,Punjab
-Hata,Uttar Pradesh
-Hindupur,Andhra Pradesh
-Hisar,Haryana
-Hospet,Karnataka
-Hubli,Karnataka
-Hyderabad,Telangana
-Imphal,Manipur
-Indore,Madhya Pradesh
-Itanagar,Arunachal Pradesh
-Jabalpur,Madhya Pradesh
-Jaipur,Rajasthan
-Jammu,Jammu & Kashmir
-Jamshedpur,Jharkhand
-Jhansi,Uttar Pradesh
-Jodhpur,Rajasthan
-Jorhat,Assam
-Kagaznagar,Andhra Pradesh
-Kakinada,Andhra Pradesh
-Kalyan,Maharashtra
-Karimnagar,Telangana
-Karnal,Haryana
-Karur,Tamil Nadu 
-Kavaratti,Lakshadweep
-Khammam,Telangana
-Khanapur,Maharashtra
-Kochi,Kerala
-Kohima,Nagaland
-Kolar,Karnataka
-Kolhapur,Maharashtra
-Kolkata ,West Bengal
-Kollam,Kerala
-Kota,Rajasthan
-Krishnanagar,West Bengal
-Krishnapuram,Tamil Nadu 
-Kumbakonam,Tamil Nadu 
-Kurnool,Andhra Pradesh
-Latur,Maharashtra
-Lucknow,Uttar Pradesh
-Ludhiana,Punjab
-Machilipatnam,Andhra Pradesh
-Madurai,Tamil Nadu 
-Mahabubnagar,Telangana
-Malegaon Camp,Maharashtra
-Mangalore,Karnataka
-Mathura,Uttar Pradesh
-Meerut,Uttar Pradesh
-Mirzapur,Uttar Pradesh
-Moradabad,Uttar Pradesh
-Mumbai,Maharashtra
-Muzaffarnagar,Uttar Pradesh
-Muzaffarpur,Bihar
-Mysore,Karnataka
-Nagercoil,Tamil Nadu 
-Nalgonda,Telangana
-Nanded,Maharashtra
-Nandyal,Andhra Pradesh
-Nasik,Maharashtra
-Navsari,Gujarat
-Nellore,Andhra Pradesh
-New Delhi,NCT of Delhi
-Nizamabad,Telangana
-Ongole,Andhra Pradesh
-Pali,Rajasthan
-Panaji,Goa
-Panchkula,Haryana
-Panipat,Haryana
-Parbhani,Maharashtra
-Pathankot,Punjab
-Patiala,Punjab
-Patna,Bihar
-Pilibhit,Uttar Pradesh
-Porbandar,Gujarat
-Port Blair,Andaman & Nicobar Island
-Proddatur,Andhra Pradesh
-Puducherry,Puducherry
-Pune,Maharashtra
-Puri,Odisha
-Purnea,Bihar
-Raichur,Karnataka
-Raipur,Chhattisgarh
-Rajahmundry,Andhra Pradesh
-Rajapalaiyam,Tamil Nadu 
-Rajkot,Gujarat
-Ramagundam,Telangana
-Rampura,Rajasthan
-Ranchi,Jharkhand
-Ratlam,Madhya Pradesh
-Raurkela,Odisha
-Rohtak,Haryana
-Saharanpur,Uttar Pradesh
-Saidapur,Uttar Pradesh
-Saidpur,Jammu & Kashmir
-Salem,Tamil Nadu 
-Samlaipadar,Odisha
-Sangli,Maharashtra
-Saugor,Madhya Pradesh
-Shahbazpur,Uttar Pradesh
-Shiliguri,West Bengal
-Shillong ,Meghalaya
-Shimla,Himachal Pradesh
-Shimoga,Karnataka
-Sikar,Rajasthan
-Silchar,Assam
-Silvassa,Dadra and Nagar Haveli
-Sirsa,Haryana
-Sonipat,Haryana
-Srinagar,Jammu & Kashmir
-Surat,Gujarat
-Tezpur,Assam
-Thanjavur,Tamil Nadu 
-Tharati Etawah,Uttar Pradesh
-Thiruvananthapuram,Kerala
-Tiruchchirappalli,Tamil Nadu 
-Tirunelveli,Tamil Nadu 
-Tirupati,Andhra Pradesh
-Tiruvannamalai,Tamil Nadu 
-Tonk,Rajasthan
-Tuticorin,Tamil Nadu 
-Udaipur,Rajasthan
-Ujjain,Madhya Pradesh
-Vadodara,Gujarat
-Valparai,Tamil Nadu 
-Varanasi,Uttar Pradesh
-Vellore,Tamil Nadu 
-Vishakhapatnam,Andhra Pradesh
-Vizianagaram,Andhra Pradesh
-Warangal,Telangana
-Jorapokhar,Jharkhand
-Brajrajnagar,Odisha
-Talcher,Odisha
+City,State Code,State Name
+Abohar,3,PUNJAB
+Achalpur,27,MAHARASHTRA
+Adilabad,28,ANDHRA PRADESH
+Adityapur,20,JHARKHAND
+Adoni,28,ANDHRA PRADESH
+Agartala,16,TRIPURA
+Agra,9,UTTAR PRADESH
+Ahmadabad,24,GUJARAT
+Ahmadnagar,27,MAHARASHTRA
+Aizawl,15,MIZORAM
+Ajmer,8,RAJASTHAN
+Akbarpur,9,UTTAR PRADESH
+Akola,27,MAHARASHTRA
+Alandur,33,TAMIL NADU
+Alappuzha,32,KERALA
+Aligarh,9,UTTAR PRADESH
+Allahabad,9,UTTAR PRADESH
+Alwar,8,RAJASTHAN
+Ambala,6,HARYANA
+Ambala Sadar,6,HARYANA
+Ambarnath,27,MAHARASHTRA
+Ambattur,33,TAMIL NADU
+Ambikapur,22,CHHATTISGARH
+Ambur,33,TAMIL NADU
+Amravati,27,MAHARASHTRA
+Amreli,24,GUJARAT
+Amritsar,3,PUNJAB
+Amroha,9,UTTAR PRADESH
+Anand,24,GUJARAT
+Anantapur,28,ANDHRA PRADESH
+Anantnag,1,JAMMU & KASHMIR
+Arrah,10,BIHAR
+Asansol,19,WEST BENGAL
+Ashoknagar Kalyangarh,19,WEST BENGAL
+Aurangabad,10,BIHAR
+Aurangabad,27,MAHARASHTRA
+Avadi,33,TAMIL NADU
+Azamgarh,9,UTTAR PRADESH
+Badlapur,27,MAHARASHTRA
+Bagaha,10,BIHAR
+Bagalkot,29,KARNATAKA
+Bahadurgarh,6,HARYANA
+Baharampur,19,WEST BENGAL
+Bahraich,9,UTTAR PRADESH
+Baidyabati,19,WEST BENGAL
+Baleshwar Town,21,ORISSA
+Ballia,9,UTTAR PRADESH
+Bally,19,WEST BENGAL
+Bally City,19,WEST BENGAL
+Balurghat,19,WEST BENGAL
+Banda,9,UTTAR PRADESH
+Bankura,19,WEST BENGAL
+Bansberia,19,WEST BENGAL
+Banswara,8,RAJASTHAN
+Baran,8,RAJASTHAN
+Baranagar,19,WEST BENGAL
+Barasat,19,WEST BENGAL
+Baraut,9,UTTAR PRADESH
+Barddhaman,19,WEST BENGAL
+Bareilly,9,UTTAR PRADESH
+Baripada Town,21,ORISSA
+Barnala,3,PUNJAB
+Barrackpur,19,WEST BENGAL
+Barshi,27,MAHARASHTRA
+Basirhat,19,WEST BENGAL
+Basti,9,UTTAR PRADESH
+Batala,3,PUNJAB
+Bathinda,3,PUNJAB
+Beawar,8,RAJASTHAN
+Begusarai,10,BIHAR
+Belgaum,29,KARNATAKA
+Bellary,29,KARNATAKA
+Bengaluru,29,KARNATAKA
+Bettiah,10,BIHAR
+Betul,23,MADHYA PRADESH
+Bhadrak,21,ORISSA
+Bhadravati,29,KARNATAKA
+Bhadreswar,19,WEST BENGAL
+Bhagalpur,10,BIHAR
+Bhalswa Jahangir Pur,7,NCT OF DELHI
+Bharatpur,8,RAJASTHAN
+Bharuch,24,GUJARAT
+Bhatpara,19,WEST BENGAL
+Bhavnagar,24,GUJARAT
+Bhilai Nagar,22,CHHATTISGARH
+Bhilwara,8,RAJASTHAN
+Bhimavaram,28,ANDHRA PRADESH
+Bhind,23,MADHYA PRADESH
+Bhiwadi,8,RAJASTHAN
+Bhiwandi,27,MAHARASHTRA
+Bhiwani,6,HARYANA
+Bhopal,23,MADHYA PRADESH
+Bhubaneswar Town,21,ORISSA
+Bhuj,24,GUJARAT
+Bhusawal,27,MAHARASHTRA
+Bid,27,MAHARASHTRA
+Bidar,29,KARNATAKA
+Bidhan Nagar,19,WEST BENGAL
+Biharsharif,10,BIHAR
+Bijapur,29,KARNATAKA
+Bikaner,8,RAJASTHAN
+Bilaspur,22,CHHATTISGARH
+Bokaro Steel City,20,JHARKHAND
+Bongaon,19,WEST BENGAL
+Botad,24,GUJARAT
+Brahmapur Town,21,ORISSA
+Budaun,9,UTTAR PRADESH
+Bulandshahr,9,UTTAR PRADESH
+Bundi,8,RAJASTHAN
+Burari,7,NCT OF DELHI
+Burhanpur,23,MADHYA PRADESH
+Buxar,10,BIHAR
+Champdani,19,WEST BENGAL
+Chandannagar,19,WEST BENGAL
+Chandausi,9,UTTAR PRADESH
+Chandigarh,4,CHANDIGARH
+Chandrapur,27,MAHARASHTRA
+Chapra,10,BIHAR
+Chas,20,JHARKHAND
+Chennai,33,TAMIL NADU
+Chhattarpur,23,MADHYA PRADESH
+Chhindwara,23,MADHYA PRADESH
+Chikmagalur,29,KARNATAKA
+Chilakaluripet,28,ANDHRA PRADESH
+Chitradurga,29,KARNATAKA
+Chittaurgarh,8,RAJASTHAN
+Chittoor,28,ANDHRA PRADESH
+Churu,8,RAJASTHAN
+Coimbatore,33,TAMIL NADU
+Cuddalore,33,TAMIL NADU
+Cuttack,21,ORISSA
+Dabgram,19,WEST BENGAL
+Dallo Pura,7,NCT OF DELHI
+Damoh,23,MADHYA PRADESH
+Darbhanga,10,BIHAR
+Darjiling,19,WEST BENGAL
+Datia,23,MADHYA PRADESH
+Davanagere,29,KARNATAKA
+Deesa,24,GUJARAT
+Dehradun,5,UTTARAKHAND
+Dehri,10,BIHAR
+Delhi,7,NCT OF DELHI
+Delhi Cantonment,7,NCT OF DELHI
+Deoghar,20,JHARKHAND
+Deoli,7,NCT OF DELHI
+Deoria,9,UTTAR PRADESH
+Dewas,23,MADHYA PRADESH
+Dhanbad,20,JHARKHAND
+Dharmavaram,28,ANDHRA PRADESH
+Dhaulpur,8,RAJASTHAN
+Dhule,27,MAHARASHTRA
+Dibrugarh,18,ASSAM
+Dimapur,13,NAGALAND
+Dinapur Nizamat,10,BIHAR
+Dindigul,33,TAMIL NADU
+Dum Dum,19,WEST BENGAL
+Durg,22,CHHATTISGARH
+Durgapur,19,WEST BENGAL
+Eluru,28,ANDHRA PRADESH
+English Bazar,19,WEST BENGAL
+Erode,33,TAMIL NADU
+Etah,9,UTTAR PRADESH
+Etawah,9,UTTAR PRADESH
+Faizabad,9,UTTAR PRADESH
+Faridabad,6,HARYANA
+Farrukhabad-cum-Fatehgarh,9,UTTAR PRADESH
+Fatehpur,9,UTTAR PRADESH
+Firozabad,9,UTTAR PRADESH
+Firozpur,3,PUNJAB
+Gadag-Betigeri,29,KARNATAKA
+Gandhidham,24,GUJARAT
+Gandhinagar,24,GUJARAT
+Ganganagar,8,RAJASTHAN
+Gangapur City,8,RAJASTHAN
+Gangawati,29,KARNATAKA
+Gaya,10,BIHAR
+Ghazipur,9,UTTAR PRADESH
+Giridih,20,JHARKHAND
+Godhra,24,GUJARAT
+Gokal Pur,7,NCT OF DELHI
+Gonda,9,UTTAR PRADESH
+Gondal,24,GUJARAT
+Gondiya,27,MAHARASHTRA
+Gorakhpur,9,UTTAR PRADESH
+Greater Hyderabad,28,ANDHRA PRADESH
+Greater Mumbai,27,MAHARASHTRA
+Greater Noida,9,UTTAR PRADESH
+Gudivada,28,ANDHRA PRADESH
+Gulbarga,29,KARNATAKA
+Guna,23,MADHYA PRADESH
+Guntakal,28,ANDHRA PRADESH
+Guntur,28,ANDHRA PRADESH
+Gurgaon,6,HARYANA
+Guwahati,18,ASSAM
+Gwalior,23,MADHYA PRADESH
+Habra,19,WEST BENGAL
+Hajipur,10,BIHAR
+Haldia,19,WEST BENGAL
+Haldwani-cum-Kathgodam,5,UTTARAKHAND
+Halisahar,19,WEST BENGAL
+Hanumangarh,8,RAJASTHAN
+Haora,19,WEST BENGAL
+Hapur,9,UTTAR PRADESH
+Hardoi,9,UTTAR PRADESH
+Hardwar,5,UTTARAKHAND
+Hassan,29,KARNATAKA
+Hastsal,7,NCT OF DELHI
+Hathras,9,UTTAR PRADESH
+Hazaribag,20,JHARKHAND
+Hindaun,8,RAJASTHAN
+Hindupur,28,ANDHRA PRADESH
+Hinganghat,27,MAHARASHTRA
+Hisar,6,HARYANA
+Hoshangabad,23,MADHYA PRADESH
+Hoshiarpur,3,PUNJAB
+Hospet,29,KARNATAKA
+Hosur,33,TAMIL NADU
+Hubli-Dharwad,29,KARNATAKA
+Hugli-Chinsurah,19,WEST BENGAL
+Ichalkaranji,27,MAHARASHTRA
+Imphal,14,MANIPUR 
+Indore,23,MADHYA PRADESH
+Jabalpur,23,MADHYA PRADESH
+Jagadhri,6,HARYANA
+Jagdalpur,22,CHHATTISGARH
+Jaipur,8,RAJASTHAN
+Jalandhar,3,PUNJAB
+Jalgaon,27,MAHARASHTRA
+Jalna,27,MAHARASHTRA
+Jalpaiguri,19,WEST BENGAL
+Jamalpur,10,BIHAR
+Jammu,1,JAMMU & KASHMIR
+Jamnagar,24,GUJARAT
+Jamshedpur,20,JHARKHAND
+Jamuria,19,WEST BENGAL
+Jaunpur,9,UTTAR PRADESH
+Jehanabad,10,BIHAR
+Jetpur Navagadh,24,GUJARAT
+Jhansi,9,UTTAR PRADESH
+Jhunjhunun,8,RAJASTHAN
+Jind,6,HARYANA
+Jodhpur,8,RAJASTHAN
+Junagadh,24,GUJARAT
+Kadapa,28,ANDHRA PRADESH
+Kaithal,6,HARYANA
+Kakinada,28,ANDHRA PRADESH
+Kalol,24,GUJARAT
+Kalyani,19,WEST BENGAL
+Kamarhati,19,WEST BENGAL
+Kancheepuram,33,TAMIL NADU
+Kanchrapara,19,WEST BENGAL
+Kanpur,9,UTTAR PRADESH
+Kanpur City,9,UTTAR PRADESH
+Karaikkudi,33,TAMIL NADU
+Karawal Nagar,7,NCT OF DELHI
+Karimnagar,28,ANDHRA PRADESH
+Karnal,6,HARYANA
+Kasganj,9,UTTAR PRADESH
+Kashipur,5,UTTARAKHAND
+Katihar,10,BIHAR
+Khammam,28,ANDHRA PRADESH
+Khandwa,23,MADHYA PRADESH
+Khanna,3,PUNJAB
+Kharagpur,19,WEST BENGAL
+Khardaha,19,WEST BENGAL
+Khargone,23,MADHYA PRADESH
+Khora,9,UTTAR PRADESH
+Khurja,9,UTTAR PRADESH
+Kirari Suleman Nagar,7,NCT OF DELHI
+Kishanganj,10,BIHAR
+Kishangarh,8,RAJASTHAN
+Kochi,32,KERALA
+Kolar,29,KARNATAKA
+Kolhapur,27,MAHARASHTRA
+Kolkata,19,WEST BENGAL
+Kollam,32,KERALA
+Korba,22,CHHATTISGARH
+Kota,8,RAJASTHAN
+Kozhikode,32,KERALA
+Krishnanagar,19,WEST BENGAL
+Kulti,19,WEST BENGAL
+Kumbakonam,33,TAMIL NADU
+Kurichi,33,TAMIL NADU
+Kurnool,28,ANDHRA PRADESH
+Lakhimpur,9,UTTAR PRADESH
+Lalitpur,9,UTTAR PRADESH
+Latur,27,MAHARASHTRA
+Loni,9,UTTAR PRADESH
+Lucknow,9,UTTAR PRADESH
+Ludhiana,3,PUNJAB
+Machilipatnam,28,ANDHRA PRADESH
+Madanapalle,28,ANDHRA PRADESH
+Madavaram,33,TAMIL NADU
+Madhyamgram,19,WEST BENGAL
+Madurai,33,TAMIL NADU
+Mahbubnagar,28,ANDHRA PRADESH
+Mahesana,24,GUJARAT
+Maheshtala,19,WEST BENGAL
+Mainpuri,9,UTTAR PRADESH
+Malegaon,27,MAHARASHTRA
+Malerkotla,3,PUNJAB
+Mandoli,7,NCT OF DELHI
+Mandsaur,23,MADHYA PRADESH
+Mandya,29,KARNATAKA
+Mangalore,29,KARNATAKA
+Mango,20,JHARKHAND
+Mathura,9,UTTAR PRADESH
+Maunath Bhanjan,9,UTTAR PRADESH
+Medinipur,19,WEST BENGAL
+Meerut,9,UTTAR PRADESH
+Mira Bhayander,27,MAHARASHTRA
+Miryalaguda,28,ANDHRA PRADESH
+Mirzapur-cum-Vindhyachal,9,UTTAR PRADESH
+Modinagar,9,UTTAR PRADESH
+Moga,3,PUNJAB
+Moradabad,9,UTTAR PRADESH
+Morena,23,MADHYA PRADESH
+Morvi,24,GUJARAT
+Motihari,10,BIHAR
+Mughalsarai,9,UTTAR PRADESH
+Muktsar,3,PUNJAB
+Munger,10,BIHAR
+Murwara,23,MADHYA PRADESH
+Mustafabad,7,NCT OF DELHI
+Muzaffarnagar,9,UTTAR PRADESH
+Muzaffarpur,10,BIHAR
+Mysore,29,KARNATAKA
+Nabadwip,19,WEST BENGAL
+Nadiad,24,GUJARAT
+Nagaon,18,ASSAM
+Nagapattinam,33,TAMIL NADU
+Nagaur,8,RAJASTHAN
+Nagda,23,MADHYA PRADESH
+Nagercoil,33,TAMIL NADU
+Nagpur,27,MAHARASHTRA
+Naihati,19,WEST BENGAL
+Nalgonda,28,ANDHRA PRADESH
+Nanded Waghala,27,MAHARASHTRA
+Nandurbar,27,MAHARASHTRA
+Nandyal,28,ANDHRA PRADESH
+Nangloi Jat,7,NCT OF DELHI
+Narasaraopet,28,ANDHRA PRADESH
+Nashik,27,MAHARASHTRA
+Navi Mumbai,27,MAHARASHTRA
+Navi Mumbai Panvel Raigarh,27,MAHARASHTRA
+Navsari,24,GUJARAT
+Neemuch,23,MADHYA PRADESH
+Nellore,28,ANDHRA PRADESH
+New Delhi,7,NCT OF DELHI
+Neyveli,33,TAMIL NADU
+Nizamabad,28,ANDHRA PRADESH
+Noida,9,UTTAR PRADESH
+North Barrackpur,19,WEST BENGAL
+North Dum Dum,19,WEST BENGAL
+Ongole,28,ANDHRA PRADESH
+Orai,9,UTTAR PRADESH
+Osmanabad,27,MAHARASHTRA
+Ozhukarai,34,PUDUCHERRY
+Palakkad,32,KERALA
+Palanpur,24,GUJARAT
+Pali,8,RAJASTHAN
+Pallavaram,33,TAMIL NADU
+Palwal,6,HARYANA
+Panchkula,6,HARYANA
+Panihati,19,WEST BENGAL
+Panipat,6,HARYANA
+Panvel,27,MAHARASHTRA
+Parbhani,27,MAHARASHTRA
+Patan,24,GUJARAT
+Pathankot,3,PUNJAB
+Patiala,3,PUNJAB
+Patna,10,BIHAR
+Pilibhit,9,UTTAR PRADESH
+Pimpri Chinchwad,27,MAHARASHTRA
+Pithampur,23,MADHYA PRADESH
+Porbandar,24,GUJARAT
+Port Blair,35,ANDAMAN & NICOBAR ISLANDS
+Proddatur,28,ANDHRA PRADESH
+Puducherry,34,PUDUCHERRY
+Pudukkottai,33,TAMIL NADU
+Pune,27,MAHARASHTRA
+Puri,21,ORISSA
+Purnia,10,BIHAR
+Puruliya,19,WEST BENGAL
+Rae Bareli,9,UTTAR PRADESH
+Raichur,29,KARNATAKA
+Raiganj,19,WEST BENGAL
+Raigarh,22,CHHATTISGARH
+Raipur,22,CHHATTISGARH
+Rajahmundry,28,ANDHRA PRADESH
+Rajapalayam,33,TAMIL NADU
+Rajarhat Gopalpur,19,WEST BENGAL
+Rajkot,24,GUJARAT
+Rajnandgaon,22,CHHATTISGARH
+Rajpur Sonarpur,19,WEST BENGAL
+Ramagundam,28,ANDHRA PRADESH
+Rampur,9,UTTAR PRADESH
+Ranchi,20,JHARKHAND
+Ranibennur,29,KARNATAKA
+Raniganj,19,WEST BENGAL
+Ratlam,23,MADHYA PRADESH
+Raurkela Industrial Township,21,ORISSA
+Raurkela Town,21,ORISSA
+Rewa,23,MADHYA PRADESH
+Rewari,6,HARYANA
+Rishra,19,WEST BENGAL
+Robertson Pet,29,KARNATAKA
+Rohtak,6,HARYANA
+Roorkee,5,UTTARAKHAND
+Rudrapur,5,UTTARAKHAND
+S.A.S. Nagar,3,PUNJAB
+Sagar,23,MADHYA PRADESH
+Saharanpur,9,UTTAR PRADESH
+Saharsa,10,BIHAR
+Salem,33,TAMIL NADU
+Sambalpur,21,ORISSA
+Sambhal,9,UTTAR PRADESH
+Sangli Miraj Kupwad,27,MAHARASHTRA
+Santipur,19,WEST BENGAL
+Sasaram,10,BIHAR
+Satara,27,MAHARASHTRA
+Satna,23,MADHYA PRADESH
+Sawai Madhopur,8,RAJASTHAN
+Secunderabad,28,ANDHRA PRADESH
+Sehore,23,MADHYA PRADESH
+Seoni,23,MADHYA PRADESH
+Serampore,19,WEST BENGAL
+Shahjahanpur,9,UTTAR PRADESH
+Shamli,9,UTTAR PRADESH
+Shikohabad,9,UTTAR PRADESH
+Shillong,17,MEGHALAYA
+Shimla,2,HIMACHAL PRADESH
+Shimoga,29,KARNATAKA
+Shivpuri,23,MADHYA PRADESH
+Sikar,8,RAJASTHAN
+Silchar,18,ASSAM
+Siliguri,19,WEST BENGAL
+Singrauli,23,MADHYA PRADESH
+Sirsa,6,HARYANA
+Sitapur,9,UTTAR PRADESH
+Siwan,10,BIHAR
+Solapur,27,MAHARASHTRA
+Sonipat,6,HARYANA
+South Dum Dum,19,WEST BENGAL
+Srikakulam,28,ANDHRA PRADESH
+Srinagar,1,JAMMU & KASHMIR
+Sujangarh,8,RAJASTHAN
+Sultan Pur Majra,7,NCT OF DELHI
+Sultanpur,9,UTTAR PRADESH
+Surat,24,GUJARAT
+Surendranagar Dudhrej,24,GUJARAT
+Suryapet,28,ANDHRA PRADESH
+Tadepalligudem,28,ANDHRA PRADESH
+Tadpatri,28,ANDHRA PRADESH
+Tambaram,33,TAMIL NADU
+Tenali,28,ANDHRA PRADESH
+Thane,27,MAHARASHTRA
+Thanesar,6,HARYANA
+Thanjavur,33,TAMIL NADU
+Thiruvananthapuram,32,KERALA
+Thoothukkudi,33,TAMIL NADU
+Thrissur,32,KERALA
+Tiruchirappalli,33,TAMIL NADU
+Tirunelveli,33,TAMIL NADU
+Tirupati,28,ANDHRA PRADESH
+Tiruppur,33,TAMIL NADU
+Tiruvannamalai,33,TAMIL NADU
+Tiruvottiyur,33,TAMIL NADU
+Titagarh,19,WEST BENGAL
+Tonk,8,RAJASTHAN
+Tumkur,29,KARNATAKA
+Udaipur,8,RAJASTHAN
+Udgir,27,MAHARASHTRA
+Udupi,29,KARNATAKA
+Ujjain,23,MADHYA PRADESH
+Ulhasnagar,27,MAHARASHTRA
+Uluberia,19,WEST BENGAL
+Unnao,9,UTTAR PRADESH
+Uttarpara Kotrung,19,WEST BENGAL
+Vadodara,24,GUJARAT
+Valsad,24,GUJARAT
+Varanasi,9,UTTAR PRADESH
+Vasai Virar City,27,MAHARASHTRA
+Vellore,33,TAMIL NADU
+Veraval,24,GUJARAT
+Vidisha,23,MADHYA PRADESH
+Vijayawada,28,ANDHRA PRADESH
+Visakhapatnam,28,ANDHRA PRADESH
+Vizianagaram,28,ANDHRA PRADESH
+Warangal,28,ANDHRA PRADESH
+Wardha,27,MAHARASHTRA
+Yamunanagar,6,HARYANA
+Yavatmal,27,MAHARASHTRA
